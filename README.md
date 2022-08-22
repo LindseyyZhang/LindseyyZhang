@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analysis 
 - 🌱 I’m currently learning python and go
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me lanxinzhang63@gmail.com
+- 📫 How to reach me LindseyyZhang@outlook.com
 
 <!---
 LindseyyZhang/LindseyyZhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
