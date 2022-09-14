@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LindseyyZhang
 - 👀 I’m interested in Data analysis 
-- 🌱 I’m currently learning python and go
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me lindseyyzhang@outlook.com
 
